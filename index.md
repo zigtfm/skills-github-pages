@@ -1,4 +1,6 @@
 ---
-title: Welcome to my blog
+title: Welcome to skills-github-pages
 ---
-
+# Header
+*Description*
+Text sample
